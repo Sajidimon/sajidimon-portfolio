@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "portfolio-website-client",
+    "production": "sajidimon-portfolio"
+  },
+  "targets": {},
+  "etags": {}
+}
